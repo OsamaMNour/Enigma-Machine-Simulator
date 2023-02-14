@@ -7,8 +7,9 @@ The Enigma machine used a set of rotors, a reflector, a plugboard, and other set
 This implementation of the Enigma machine allows the user to encrypt a message using the settings specified in the code. The settings can be changed by modifying the variables rotors, reflector, ringSettings, ringPositions, and plugboard.
 
 Here are some links to help you understand the Enigma machine and how it works:
-How did the Enigma Machine work? by Jared Owen:
-https://www.youtube.com/watch?v=ybkkiGtJmkM
 
+How did the Enigma Machine work? by Jared Owen:
+
+https://www.youtube.com/watch?v=ybkkiGtJmkM
 Enigma Machine - Brilliant:
 https://brilliant.org/wiki/enigma-machine/
