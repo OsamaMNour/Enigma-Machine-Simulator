@@ -9,7 +9,6 @@ This implementation of the Enigma machine allows the user to encrypt a message u
 Here are some links to help you understand the Enigma machine and how it works:
 
 How did the Enigma Machine work? by Jared Owen:
-
 https://www.youtube.com/watch?v=ybkkiGtJmkM
 
 
